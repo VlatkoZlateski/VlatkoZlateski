@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on ...Open source Projects
-- 📫 How to reach me ...zlateskivlatko123@gmail.com
+- 📫 How to reach me  zlateskivlatko123@gmail.com
 
 <!---
 VlatkoZlateski/VlatkoZlateski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
