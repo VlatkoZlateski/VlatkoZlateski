@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VlatkoZlateski
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on ...Open source Projects
+- 💞️ I’m looking to collaborate on ...Open source Projects for practice and expirience
 - 📫 How to reach me  zlateskivlatko123@gmail.com
 
 <!---
